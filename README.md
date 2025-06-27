@@ -25,7 +25,7 @@
 
 ### 📫 Connect with Me:
 <p align="left">
-  <a href="[https://www.facebook.com/profile.php?id=100074859700201](https://www.facebook.com/melvin.porcalla.2024)" target="blank">
+  <a href="https://www.facebook.com/melvin.porcalla.2024" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/melvin-porcalla-7012b9289/" target="blank">
