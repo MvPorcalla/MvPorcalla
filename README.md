@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Melvin Porcalla!</h1>
 <h3 align="center">🌱 I'm a curious and passionate developer who loves building creative Games and Websites that bring ideas to life. 🎮🌐</h3>
 <p align="center"> 
-  💻 **Am I a programmer?** — I just go with the flow. 
+  <strong> Am I a programmer? </strong> — I just go with the flow. 
   I don’t promise perfection, but I always make sure I understand what I’m coding to save future-me from the headaches of debugging and refactoring my own chaotic code. 
   Oh, and by the way… I can’t really code without the help of AI (shoutout to ChatGPT 👀). I guess you could say I’m what you’d call a vibe coder.
 </p>
