@@ -96,4 +96,4 @@
 ---
 
 ### ⚡ Fun Fact:
-I’m still exploring what I really want to specialize in — but for now, I just enjoy creating cool things! 😊
+I’m still exploring what I really want to specialize in — but for now, I just enjoy creating cool and useless things! 😊
