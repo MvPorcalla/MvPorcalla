@@ -13,7 +13,7 @@
 ---
 
 ### 👋 About Me
-- 🎓 I'm an unemployed fresh graduate and still figuring out what kind of developer I want to become.
+- 🎓 I'm a fresh graduate and still figuring out what kind of developer I want to become.
 - 💻 I love building **games** and **websites** — creating things that are both fun and useful!
 - ✨ I'm still not proficient in any programming language yet, but I’m actively learning and improving every day.
 - 🎮 I enjoy experimenting with **Unity** and making small browser-based games using **JavaScript**.
