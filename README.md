@@ -73,6 +73,15 @@
 
 ---
 
+### 📊 GitHub Stats & Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mvporcalla&show_icons=true&theme=tokyonight" alt="Melvin's GitHub Stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvporcalla&layout=compact&theme=tokyonight" alt="Top Languages" width="320"/>
+</p>
+
+---
+
 ### 📫 Connect with Me
 
 <p align="center">
@@ -88,16 +97,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats & Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvporcalla&show_icons=true&theme=tokyonight" alt="Melvin's GitHub Stats" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvporcalla&layout=compact&theme=tokyonight" alt="Top Languages" width="320"/>
-</p>
-
----
-
 
 ### 👋 About Me
 - 🎓 I'm a fresh graduate and still figuring out what kind of developer I want to become.
