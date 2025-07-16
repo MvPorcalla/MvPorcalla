@@ -73,6 +73,22 @@
 
 ---
 
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/melvin-porcalla-7012b9289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:porcallamelvin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/melvin.porcalla.2024" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
