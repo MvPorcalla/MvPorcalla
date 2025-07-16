@@ -77,8 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvporcalla&layout=compact&theme=tokyonight" alt="Top Languages" width="320"/>
 </p>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/melvin-porcalla-7012b9289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
