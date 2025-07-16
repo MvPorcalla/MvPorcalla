@@ -13,23 +13,17 @@
 
 ---
 
-### 👋 About Me
-- 🎓 I'm a fresh graduate and still figuring out what kind of developer I want to become.
-- 💻 I love building **games** and **websites** — creating things that are both fun and useful!
-- ✨ I'm still not proficient in any programming language yet, but I’m actively learning and improving every day.
-- 🎮 I enjoy experimenting with **Unity** and making small browser-based games using **JavaScript**.
-- 🌍 Currently exploring **Vue.js, React.js, Node.js, Laravel, and Game Development**.
-- 🤝 I love collaborating and learning from other developers.
+### 📫 Connect with Me
 
----
-
-### 📫 Connect with Me:
-<p align="left">
-  <a href="https://www.facebook.com/melvin.porcalla.2024" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
+<p align="center">
   <a href="https://www.linkedin.com/in/melvin-porcalla-7012b9289/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:porcallamelvin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/melvin.porcalla.2024" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
@@ -119,21 +113,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvporcalla&show_icons=true&theme=tokyonight" alt="Melvin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mvporcalla&show_icons=true&theme=tokyonight" alt="Melvin's GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvporcalla&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </p>
 
 ---
 
-### 🔍 Most Used Languages
+### 👋 About Me
+- 🎓 I'm a fresh graduate and still figuring out what kind of developer I want to become.
+- 💻 I love building **games** and **websites** — creating things that are both fun and useful!
+- ✨ I'm still not proficient in any programming language yet, but I’m actively learning and improving every day.
+- 🎮 I enjoy experimenting with **Unity** and making small browser-based games using **JavaScript**.
+- 🌍 Currently exploring **Vue.js, React.js, Node.js, Laravel, and Game Development**.
+- 🤝 I love collaborating and learning from other developers.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvporcalla&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 ---
 
 ### ⚡ Fun Fact:
