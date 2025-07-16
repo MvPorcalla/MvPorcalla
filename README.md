@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
+<p align="center">
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
@@ -70,8 +70,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
-
----
 
 ---
 
