@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Melvin Porcalla!</h1>
+
 <h3 align="center">🌱 I'm a curious and passionate developer who loves building creative Websites and Games. 🎮🌐</h3>
 <p align="center"> 
   <strong> Am I a programmer? </strong> ¯\_(ツ)_/¯ — I just go with the flow. 
@@ -34,32 +35,105 @@
 
 ---
 
-### 💼 Tech Stack
+### 🔧 Languages & Tools
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br/>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br/>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br/>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br/>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br/>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br/>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+      <br/>Vue.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br/>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      <br/>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
+      <br/>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br/>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br/>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" />
+      <br/>Unity
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br/>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br/>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+      <br/>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/chatgpt.svg" width="48" height="48" alt="ChatGPT" />
+      <br/>ChatGPT
+    </td>
+    <td align="center" width="96">
+      <!-- Empty placeholder -->
+    </td>
+  </tr>
+</table>
 
-#### Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff)
+---
 
-#### Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=fff)
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mvporcalla&show_icons=true&theme=tokyonight" alt="Melvin's GitHub stats" />
+</p>
+
+---
+
+### 🔍 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvporcalla&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 ---
 
 ### ⚡ Fun Fact:
