@@ -1,8 +1,8 @@
 <h1 align="center">Hello there 👋, I'm Melvin Porcalla!</h1>
 
 <p align="center"> 
-  <strong> Am I a programmer? </strong> ¯\_(ツ)_/¯ — I just go with the flow. <br>
-  Shoo, go away. Nothing to see here.
+  <strong> Am I a programmer? </strong> ¯\_(ツ)_/¯ — I just go with the flow. <br> <br>
+  Shoo, go away. Nothing to see here. (ノ>_<)ノ ~┻┻
 </p>
 
 <p align="center">
