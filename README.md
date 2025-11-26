@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <strong> Am I a programmer? </strong> ¯\_(ツ)_/¯ — I just go with the flow. <br> <br>
-  Shoo, go away. Nothing to see here. (ノ>_<)ノ ~┻┻
+  Shoo, go away. Nothing to see here.  (ノ>_<)ノ ~┻┻
 </p>
 
 <p align="center">
@@ -90,5 +90,4 @@
 ---
 
 ### ⚡ Fun Fact:
-I’m still exploring what I really want to specialize in — but for now, I just enjoy creating cool and useless things! 😊 <br>
-I don’t promise perfection, but I always make sure I understand what I’m coding to save future-me from the headaches of debugging and refactoring my own code.
+I don’t write perfect code—I just try to make it understandable enough so future-me won’t file a complaint against past-me.
