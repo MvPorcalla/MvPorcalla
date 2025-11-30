@@ -1,8 +1,8 @@
-<h1 align="center">Hello there 👋, I'm Melvin Porcalla!</h1>
+<h1 align="center">Oh, hey 👋… It's just me, Melvin Porcalla.</h1>
 
-<p align="center"> 
-  <strong> Am I a programmer? </strong> ¯\_(ツ)_/¯ — I just go with the flow. <br> <br>
-  Shoo, go away. Nothing to see here.  (ノ>_<)ノ ~┻┻
+<p align="center">
+  <strong>Programmer?</strong> Maybe. Maybe not. I just mash keys until things work. ¯\_(ツ)_/¯ <br><br>
+  Seriously, why are you still here? Go away. Shoo.  (ノ>_<)ノ ~┻┻
 </p>
 
 <p align="center">
