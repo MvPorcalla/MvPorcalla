@@ -18,7 +18,6 @@
     <td>
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="55" />
     </td>
-    <td style="padding: 0 10px; font-size: 30px;">|</td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" />
     </td>
