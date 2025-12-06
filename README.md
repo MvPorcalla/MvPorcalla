@@ -11,13 +11,20 @@
 
 ---
 
+<p align="center"><strong>Currently focused on game development using Unity.</strong></p>
+
 <p align="center">
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="60" height="60"/>
   </a>
+</p>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
+
+---
+
+<p align="center">
   <a href="https://uxwing.com/chatgpt-icon/" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.svg" alt="ChatGPT" width="40" height="40"/>
   </a>
