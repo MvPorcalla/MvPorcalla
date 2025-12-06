@@ -28,6 +28,9 @@
 ---
 
 <p align="center">
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer">
+    <img src="https://logo.svgcdn.com/logos/claude-icon.svg" alt="Claude" width="40" height="40"/>
+  </a>
   <a href="https://uxwing.com/chatgpt-icon/" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.svg" alt="ChatGPT" width="40" height="40"/>
   </a>
