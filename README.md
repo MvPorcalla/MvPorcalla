@@ -15,16 +15,15 @@
 
 <p align="center">
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="55" height="55"/>
   </a>
 
-  &nbsp;|&nbsp;
+  &nbsp;│&nbsp;
 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
   </a>
 </p>
-
 
 ---
 
