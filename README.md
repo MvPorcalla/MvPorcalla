@@ -1,4 +1,4 @@
-<h1 align="center">Oh, hey 👋… It's just me, Melvin Porcalla.</h1>
+<h1 align="center">Sup 👋 It’s just me, Melvs.</h1>
 
 <p align="center">
   <strong>Programmer?</strong> Maybe. Maybe not. I just mash keys until things work. ¯\_(ツ)_/¯ <br><br>
