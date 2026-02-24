@@ -1,4 +1,8 @@
-<h1 align="center">Sup 👋 It’s just me, Melvs.</h1>
+<h1 align="center">Sup Pips</h1>
+
+<p align="center">
+This is a personal project repo. Mostly AI-made, somewhat structured (I swear it mostly makes sense), and mostly Unity stuff. Docs and templates included… just don’t expect me to hand-hold you. 🤌 P.S. Even this sentence was AI-made.
+</p>
 
 <p align="center">
   <strong>Programmer?</strong> Maybe. Maybe not. I just mash keys until things work. ¯\_(ツ)_/¯ <br><br>
