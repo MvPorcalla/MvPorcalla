@@ -1,4 +1,4 @@
-<h1 align="center">Sup Pips</h1>
+<h1 align="center">Sup  (ノ>_<)ノ ~┻┻ </h1>
 
 <p align="center">
 This is a personal project repo. Mostly AI-made, somewhat structured (I swear it mostly makes sense), and mostly Unity stuff. Docs and templates included… just don’t expect me to hand-hold you. 🤌 P.S. Even this sentence was AI-made.
@@ -6,7 +6,6 @@ This is a personal project repo. Mostly AI-made, somewhat structured (I swear it
 
 <p align="center">
   <strong>Programmer?</strong> Maybe. Maybe not. I just mash keys until things work. ¯\_(ツ)_/¯ <br><br>
-  Seriously, why are you still here? Go away. Shoo.  (ノ>_<)ノ ~┻┻
 </p>
 
 <p align="center">
