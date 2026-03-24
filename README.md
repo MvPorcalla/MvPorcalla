@@ -96,5 +96,4 @@ This is a personal project repo. Nothing to see here.
 
 ---
 
-### ⚡ Fun Fact:
 I don’t write perfect code—I just try to make it understandable enough so future-me won’t file a complaint against past-me.
