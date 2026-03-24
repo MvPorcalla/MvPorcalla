@@ -10,7 +10,7 @@ This is a personal project repo. Nothing to see here.
 
 ---
 
-<p align="center"><strong>Currently focused on game development using Unity.</strong></p>
+<p align="center"><strong>Currently focused on game development using Unity and Godot.</strong></p>
 
 <table align="center">
   <tr>
