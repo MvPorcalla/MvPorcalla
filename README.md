@@ -27,7 +27,7 @@ This is a personal project repo. Nothing to see here.
 ---
 
 <p align="center">
-  Unity Engine · C# · JavaScript · PHP · HTML5 · CSS3 · React · Vue.js · Bootstrap · Tailwind CSS · Figma · C++ · Git · MySQL · Node.js · Python · TypeScript
+  Unity Engine · C# · JavaScript · PHP · HTML5 · CSS3 · React · Vue.js · Bootstrap · Tailwind CSS · Figma · Git · MySQL · Node.js · Python · TypeScript
 </p>
 
 ---
